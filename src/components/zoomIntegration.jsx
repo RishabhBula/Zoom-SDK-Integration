@@ -26,8 +26,8 @@ const generateSignature = async (apiKey, apiSecret, meetingNumber, role) => {
 const ZoomIntegration = () => {
   useEffect(() => {
     const signatureEndpoint = "http://localhost:4000";
-    const apiSecret = "MyxxGD2owPHwU45MmJp7KVd4RJ38LkeJ";
-    const apiKey = "3Lj0tmX9Rua_Vk9gjVEKVg";
+    const apiSecret = "hfdhdhfdh65hfd";
+    const apiKey = "gfdhgsfdhgfdh";
     const meetingNumber = 123564984 //meet number
 
     ;
